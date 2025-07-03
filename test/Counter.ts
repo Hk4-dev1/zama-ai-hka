@@ -61,4 +61,3 @@ describe("Counter", function () {
     expect(count).to.eq(0);
   });
 });
-
